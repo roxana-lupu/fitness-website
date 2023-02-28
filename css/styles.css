@@ -1,0 +1,38 @@
+h2{
+    font-size: 3vw;
+    line-height: 1.5;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar-brand{
+    font-size: 1.5rem;
+    padding-left: 10px;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.advantage-icon:hover{
+    opacity: 0.5;
+}
+.advantage-icon{
+    color:#ffc107;
+}
+#community-icon{
+    height: 65vh;
+}
+#rating{
+    margin-top:50px;
+}
+.footer-text{
+    margin-top: 150px;
+    padding: 20px;
+}
+#copyright{
+    color: #b8bdb3
+}
